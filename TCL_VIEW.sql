@@ -84,3 +84,5 @@ group by s.submision_date,h_name;
 
 use joindb;
 GRANT SELECT on emp  to 'user_1';
+
+
